@@ -1,4 +1,4 @@
-![Jacks Banner](assets\Jack_Jones_Banner.png)
+![Jacks Banner](https://github.com/StickySitch/StickySitch/blob/main/assets/Jack_Jones_Banner.png)
 
 <!--<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 -->
