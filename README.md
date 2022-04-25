@@ -11,7 +11,7 @@
 📈 &nbsp;Always growing personally and professionally!\
 🎓 &nbsp;Certificate recipient in Data Analytics from The George Washington University.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence/Machine Learning.\
-⏳ &nbsp;My free time consists of practicing Mixed Martial Arts and continuing  to grow my Artificial Intelligence/Machine Learning skills.
+⏳ &nbsp;My free time consists of practicing Mixed Martial Arts and continuing to grow my Artificial Intelligence/Machine Learning skills.
 
 ------
 
