@@ -49,6 +49,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=StickySitch&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=StickySitch&layout=compact&theme=algolia&hide=jupyter%20notebook"/>
+  
+  ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=StickySitch&layout=compact&theme=algolia&hide=jupyter%20notebook)
 </a>
 </p>
 
